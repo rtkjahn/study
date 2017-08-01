@@ -37,7 +37,7 @@
 
 ``` fatal: remote origin already exists.``` 에러가 보이면
 
-``` git remote rm origin  ``` 후,  
+``` git remote rm origin  ``` 후, 
 
 * 저장소로 push
 
